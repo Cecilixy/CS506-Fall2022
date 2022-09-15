@@ -1,3 +1,9 @@
+
+
+
 def draw_school():
-    print("school not found")
-    return
+    print('/ \\')
+    print("| |")
+    print("---")
+
+draw_school()
